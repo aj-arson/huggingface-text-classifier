@@ -1,6 +1,5 @@
-# huggingface-text-classifier
+# Distil-Bert Food V Not Food Text Classifier
 
-Hugging face model Info : 
-> url: https://huggingface.co/AJ700/food_v_not_food-distil-bert-text-classifier
-
-> repo_id: AJ700/food_v_not_food-distil-bert-text-classifier
+**Hugging face model Info :**
+* url: https://huggingface.co/AJ700/food_v_not_food-distil-bert-text-classifier
+* repo_id: AJ700/food_v_not_food-distil-bert-text-classifier
